@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZachroyAnazfitry
-- 👀 I’m interested in artificial intelligence and big data analytics
-- 🌱 I’m currently learning data engineering.
-- 💞️ I’m looking to collaborate on big data analytics and artifical intelligence/machine learning
+- 👋 Hi, I’m @ZachAnaz
+- 👀 I’m interested in artificial intelligence,big data analytics and web development.
+- 🌱 I’m always learnning and continuing developing myself as a programmer.
+- 💞️ I’m looking to collaborate on software development, big data analytics and artifical intelligence/machine learning
 - 📫 How to reach me @www.linkedin.com/in/zachroy-anazfitry
 
 
